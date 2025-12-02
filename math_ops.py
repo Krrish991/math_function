@@ -8,5 +8,4 @@ def div(a,b):
     
     if b==0:
         return "division by zero error"
-    else:
-     return a / b
+    
