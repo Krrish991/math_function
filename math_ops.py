@@ -10,3 +10,4 @@ def div(a,b):
         return "division by zero error"
     else:
      return a / b
+    #Krrish Gupta
